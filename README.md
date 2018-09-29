@@ -3,6 +3,7 @@ tutorial
 ## Lesson 1
 - one
 - two
-```shell
-ls -FA
+```r
+for k in 1:100
+  print(k)
 ```
